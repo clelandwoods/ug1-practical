@@ -5,7 +5,7 @@ This is the last lab of semester 1 where the students willl work with data. Lab 
 ```
 
 ## Pre-class activity
-Interesting twitter conversation between Prof Lisa Debruine and Dr Guillaume Rousselet on the importance of visualising data which you will be learning about in this lab 
+Interesting twitter conversation between Prof Lisa DeBruine and Dr Guillaume Rousselet on the importance of visualising data which you will be learning about in this lab 
 ![](images/ggplot_thread.png)
 
 
@@ -67,7 +67,7 @@ And as Grolemund and Wickham tells us
 'Visualisation is a fundamentally human activity. A good visualisation will show you things that you did not expect, or raise new questions about the data. A good visualisation might also hint that you’re asking the wrong question, or you need to collect different data. Visualisations can surprise you, but don’t scale particularly well because they require a human to interpret them.` 
 http://r4ds.had.co.nz/introduction.html
 
-```{r, create plot}
+```{r create-plot, fig.cap=""}
 ggplot(data = age_65max) + 
   geom_point(mapping = aes(x = ahiTotal , y = cesdTotal), col="purple") 
 ```
