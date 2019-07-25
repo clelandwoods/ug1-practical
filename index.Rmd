@@ -1,5 +1,5 @@
 --- 
-title: "Level 1 Data Skills"
+title: "Level 1 Grassroots"
 author: "psyTeachR"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -20,6 +20,10 @@ knitr::write_bib(c(
 ```
 
 # Overview {-}
+
+<img src="images/L1.png" style="width: 200px; float: right;">
+
+Materials for the University of Glasgow School of Psychology Year 1 Practical Course. 
 
 This resource outlines the structure and content of our level 1 practical course at the School of Psychology at the University of Glasgow. We have developed these with a few key principles in mind:
 
