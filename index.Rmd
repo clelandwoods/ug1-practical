@@ -39,7 +39,5 @@ This resource outlines the structure and content of our level 1 practical course
 
 ```{block, type="info"}
 We have not shared the assessments for the labs but they are closely related to the in-class activities so these can be used as assessment templates too with code remaining similar to in-class but data or variables of interest changing. Where we have had formative or optional tasks for students to complete these will be listed under post-lab activities.
-
-You may notice a progression between labs 1 to 4 and labs 5 to 8. This is due to labs 1 to 4 building on skills progressively with associated increase in assessment weighting whilst labs 5 to 8 have a more consistent yet higher weighting. 
 ```
 
